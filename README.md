@@ -116,5 +116,5 @@ I’m open to connecting with developers, businesses, and Python enthusiasts. Wh
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaldipkoladiya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaldipkoladiya&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaldip1651&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaldip1651&layout=compact&theme=radical)  
